@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
-    <link>https://faisalhuda-ub.github.io/post/index.xml</link>
-    <description>Recent content in Posts on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Posts on Fais Al Huda</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Fais Al Huda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Fais Al Huda</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jul 2019 00:17:19 +0700</lastBuildDate>
+    
+	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Low pass high pass filter android</title>
-      <link>https://faisalhuda-ub.github.io/post/low-pass-high-pass-filter-android/</link>
-      <pubDate>Tue, 04 Apr 2017 13:03:43 +0700</pubDate>
+      <title>Project berbasis augmented reality</title>
+      <link>/post/first/</link>
+      <pubDate>Sun, 07 Jul 2019 00:17:19 +0700</pubDate>
       
-      <guid>https://faisalhuda-ub.github.io/post/low-pass-high-pass-filter-android/</guid>
-      <description></description>
+      <guid>/post/first/</guid>
+      <description>&lt;p&gt;Saya telah membuat beberapa project Augmented reality berbasis AR.js&lt;/p&gt;
+</description>
     </item>
     
   </channel>
